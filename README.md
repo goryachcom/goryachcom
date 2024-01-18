@@ -8,9 +8,11 @@ Data analysis is an obvious choice for me, familiar programming languages Python
 
 Experience as a marketer and complete immersion in Google Analytics and Yandex Metrica - reports, data, presentations and, most importantly, conclusions based on the work done.
 
-### Skills: Excel, SQL, Python, Pandas, Power BI, Tableau, PowerPoint, Yandex Metrica, Google Analytics
+### Skills
+Excel, SQL, Python, Pandas, Power BI, Tableau, PowerPoint, Yandex Metrica, Google Analytics
 
-
+### Contacts
+[goryach.com](https://goryach.com/)
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
