@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+The it market is developing rapidly, and the demand for specialists is growing every day - this is confirmed by numerous studies of the labor market in Russia.
+
+Data analysis is an obvious choice for me, familiar programming languages Python and SQL, analytical mind, interest in this area and constant study of telegram channels: Valera Time, Reveal the Data, Datalytics, Data analysis
+
+Experience as a marketer and complete immersion in Google Analytics and Yandex Metrica - reports, data, presentations and, most importantly, conclusions based on the work done.
+
+
+
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
