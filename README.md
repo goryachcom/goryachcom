@@ -1,12 +1,12 @@
-# Hi there 👋
+Hello, I'm Dima! What is your name? 👋
 
-## Why I decided to change my profession?
+My projects and skills 💪
 
-### Skills
-Excel, SQL, Python, Pandas, Power BI, Tableau, PowerPoint, Yandex Metrica, Google Analytics
+Yandex Practicum
+Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
 
-### Contacts
-[goryach.com](https://goryach.com/)
+Web Analytics
+Skills - Excel, Yandex Metrica, Google Analytics
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
