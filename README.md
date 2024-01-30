@@ -1,6 +1,4 @@
-# Hello, I'm Dima! What is your name? 👋
-
-My projects and skills
+# Hello, I'm Dima! My projects and skills 👋
 
 ## <a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
 Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
