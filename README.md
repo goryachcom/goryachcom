@@ -1,14 +1,14 @@
 ## Hello, I'm Dima! My projects and skills 👋
 
-## <a href="https://github.com/goryachcom">kaggle</a>
+## <a href="https://github.com/goryachcom">projects kaggle</a>
 
-## <a href="https://github.com/goryachcom">Yandex Workshop</a>
+## <a href="https://github.com/goryachcom">yandex workshop</a>
 
-## <a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
-Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
+## <a href="https://github.com/goryachcom/yandex-praktikum">yandex practicum</a>
+skills - python(pandas), jupyter notebook, SQL, postgreSQL, tableau, a/b tests
 
-## Web Analytics
-Skills - Excel, Yandex Metrica, Google Analytics
+## web analytics
+skills - excel, yandex metrica, google analytics
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
