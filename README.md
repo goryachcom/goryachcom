@@ -2,11 +2,6 @@
 
 My projects and skills
 
-https://github.com/goryachcom/yandex-praktikum
-
-
-
-
 ## <a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
 Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
 
