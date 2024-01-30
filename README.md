@@ -1,10 +1,10 @@
 # Hello, I'm Dima! My projects and skills 👋
 
 ## <a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
-### Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
+Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
 
 ## Web Analytics
-### Skills - Excel, Yandex Metrica, Google Analytics
+Skills - Excel, Yandex Metrica, Google Analytics
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
