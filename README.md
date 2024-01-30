@@ -4,7 +4,7 @@ My projects and skills
 
 https://github.com/goryachcom/yandex-praktikum
 
-<a href="[https://html5css.ru/html/](https://github.com/goryachcom/yandex-praktikum)">Посетите наш HTML Справочник</a>
+<a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
 
 
 ## Yandex Practicum
