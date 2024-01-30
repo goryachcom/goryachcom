@@ -2,12 +2,15 @@
 
 My projects and skills
 
-https://github.com/goryachcom/yandex-praktikum 
+https://github.com/goryachcom/yandex-praktikum
+
+<a href="[https://html5css.ru/html/](https://github.com/goryachcom/yandex-praktikum)">Посетите наш HTML Справочник</a>
+
 
 ## Yandex Practicum
 Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
 
-Web Analytics
+## Web Analytics
 Skills - Excel, Yandex Metrica, Google Analytics
 
 <!--
