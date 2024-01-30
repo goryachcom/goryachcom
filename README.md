@@ -1,5 +1,9 @@
 ## Hello, I'm Dima! My projects and skills 👋
 
+## <a href="https://github.com/goryachcom">kaggle</a>
+
+## <a href="https://github.com/goryachcom">Yandex Workshop</a>
+
 ## <a href="https://github.com/goryachcom/yandex-praktikum">Yandex Practicum</a>
 Skills - Python(Pandas), Jupyter Notebook, SQL, PostgreSQL, Tableau, A/B tests
 
