@@ -8,7 +8,7 @@
 skills - python, pandas, jupyter notebook, SQL, postgreSQL, tableau, a/b tests
 
 ## web analytics
-skills - excel, yandex metrica, google analytics
+skills - excel, yandex metrica, google analytics, html, css, adobe photoshop
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
