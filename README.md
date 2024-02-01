@@ -5,10 +5,10 @@
 ## <a href="https://github.com/goryachcom">yandex workshop</a>
 
 ## <a href="https://github.com/goryachcom/yandex-praktikum">yandex practicum</a>
-skills - python, pandas, jupyter notebook, SQL, postgreSQL, tableau, a/b tests
+skills: python, pandas, jupyter notebook, SQL, postgreSQL, tableau, a/b tests
 
 ## web analytics
-skills - excel, yandex metrica, google analytics, html, css, adobe photoshop
+skills: excel, yandex metrica, google analytics, html, css, adobe photoshop
 
 <!--
 **goryachcom/goryachcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
